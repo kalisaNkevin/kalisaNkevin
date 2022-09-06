@@ -25,6 +25,9 @@
 
 ![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
     
+ <details>
+  <summary>More clarified info here ...</summary><br/>   
+    
 ## 🚀 Languages and Tools:
 <br><p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -65,7 +68,7 @@
 <br>
 <br>
 
-
+## :chart: Contribution grapgh:
 <br/>
 <br/>
 
@@ -73,4 +76,7 @@
 
 <br/>
 <br/>
+
+<!--END_SECTION:waka-->
+</details>
 
