@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ** Blockchain **
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about **anything related to the tech industry **
-- 📫 How to reach me ** kalisangabokevin@gmail.com **
+- 📫 How to reach me **kalisangabokevin@gmail.com **
 - ⚡ Fun fact **I pursue a bachelors honors in Civil Structural Engineering.**
 
 
