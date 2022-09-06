@@ -24,6 +24,8 @@
 
 
 ![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+    
+## 🚀 Languages and Tools:
 <br><p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>         <img src="https://img.shields.io/badge/-sequelize-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
