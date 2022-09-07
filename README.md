@@ -77,6 +77,7 @@
 <br/>
 <br/>
 
-<!--END_SECTION:waka-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalisaNkevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </details>
 
