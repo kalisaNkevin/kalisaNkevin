@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://github.com/atlp-rwanda/elite-bn-be)**
-- 🌱 I’m currently learning **Solidity, scala, Go and rust**
+- 🌱 I’m currently learning **Solidity**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about **anything related to the tech industry**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
