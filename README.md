@@ -10,9 +10,7 @@
 - 💬 Ask me about **anything related to the tech industry**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
 - ⚡ Fun fact **I pursue a bachelors honors in Civil Structural Engineering.**
-- I would appreciate a cup of coffee/tea 🥺
-    
-<a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+- I would appreciate a cup of coffee/tea 🥺 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Connect with me:
 <p align="left">
@@ -25,9 +23,8 @@
 <p>
 
 
-![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=dark&hide_border=false)<br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalisaNkevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-<br>
+![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalisaNkevin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
     
  <details>
