@@ -10,7 +10,7 @@
 - 💬 Ask me about **anything related to the tech industry**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
 - ⚡ Fun fact **I pursue a bachelors honors in Civil Structural Engineering.**
-I would appreciate a cup of coffee/tea 🥺
+- I would appreciate a cup of coffee/tea 🥺
     
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
