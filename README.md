@@ -4,7 +4,7 @@
 ### About Me :sunglasses:
 
 
-- 🔭 I’m currently working on **[ATLP Barefoot normad Project](https://github.com/atlp-rwanda/elite-bn-be)**
+- 🔭 I’m currently working on **[Barefoot Normad](https://barefoot-nomad-fe.netlify.app/)**
 - 🌱 I’m currently learning **Solidity**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about **anything related to the tech industry**
