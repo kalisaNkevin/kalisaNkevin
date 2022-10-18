@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **[Mobile App](https://positiveo.io/)**
 - 🌱 I’m currently learning **React-native**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **anything related to the tech industry**
+- 💬 Ask me about **anything related to code or mentorship**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
 - ⚡ Fun fact **I pursue a bachelors honors in Civil Structural Engineering.**
 
