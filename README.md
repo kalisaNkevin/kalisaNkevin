@@ -4,7 +4,7 @@
 ### About Me :sunglasses:
 
 
-- 🔭 I’m currently working at **[PositiveO App](https://positiveo.io/)**
+- 🔭 I’m currently working on **[PositiveO App](https://positiveo.io/)**
 - 🌱 I’m currently learning **React-native**
 - 💬 Ask me about **anything related to MERN /PERN Technology**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
