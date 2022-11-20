@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working at **[PositiveO App](https://positiveo.io/)**
 - 🌱 I’m currently learning **React-native**
-- 💬 Ask me about **anything related to code or mentorship**
+- 💬 Ask me about **anything related to MERN /PERN Technology**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
-- ⚡ Fun fact **Reading is the key to everything. However, we don't.**
+- ⚡ Fun fact :  **Reading is the key to everything. However, we don't.**
 
 
 
