@@ -4,13 +4,11 @@
 ### About Me :sunglasses:
 
 
-- 🔭 I’m currently working on **[Mobile App](https://positiveo.io/)**
-- 🔭 I’m currently contributing in an open source **[Dev Connections](https://github.com/this-mkhy/Dev-Connections)**
+- 🔭 I’m currently working at **[PositiveO App](https://positiveo.io/)**
 - 🌱 I’m currently learning **React-native**
-- 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **anything related to code or mentorship**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
-- ⚡ Fun fact **I pursue a bachelors honors in Civil Structural Engineering.**
+- ⚡ Fun fact **Reading is the key to everything. However, we don't.**
 
 
 
