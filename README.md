@@ -35,7 +35,9 @@
  ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)  
  <details>
   <summary>More clarified info here ...</summary><br/>   
-### 🚀 Languages and Tools:
+  
+## 🚀 Languages and Tools: 
+
 <br><p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>         <img src="https://img.shields.io/badge/-sequelize-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
@@ -74,7 +76,7 @@
 <br>
 <br>
 <br>
-  ### :chart: Contribution grapgh:
+## :chart: Contribution grapgh:
 <br/>
 <br/>
  
