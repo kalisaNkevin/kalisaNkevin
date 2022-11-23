@@ -23,16 +23,16 @@
 <a href="https://www.linkedin.com/in/kalisa-ngabo-kevin-6717781b7/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Kalisakevin_/"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
 </p>
-
+ ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 <p>
 
 
 ![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=dark&hide_border=false)<br>
     
-     ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
-
     
+
+   
  <details>
   <summary>More clarified info here ...</summary><br/>   
     
