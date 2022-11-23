@@ -32,7 +32,7 @@
     
     
 
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)  
+ ![Snake animation](https://github.com/kalisaNkevin/kalisaNkevin/blob/output/github-contribution-grid-snake.svg)  
  <details>
   <summary>More clarified info here ...</summary><br/>   
 ## 🚀 Languages and Tools:
