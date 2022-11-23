@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/kalisa-ngabo-kevin-6717781b7/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/Kalisakevin_/"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
 </p>
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+ 
 <p>
 
 
@@ -80,7 +80,7 @@
 ## :chart: Contribution grapgh:
 <br/>
 <br/>
-
+  ![Snake animation](https://https://github.com/kalisaNkevin/kalisaNkevinblob/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/kalisaNkevin/github-readme-activity-graph"><img alt="kalisa ngabo kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalisaNkevin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
