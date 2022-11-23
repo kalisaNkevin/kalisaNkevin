@@ -29,6 +29,8 @@
 
 ![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=dark&hide_border=false)<br>
+    
+     ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
     
  <details>
@@ -74,7 +76,6 @@
 <br>
 <br>
       
- ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
 ## :chart: Contribution grapgh:
 <br/>
