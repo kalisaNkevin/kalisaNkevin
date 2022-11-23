@@ -75,7 +75,7 @@
 <br>
 <br>
 <br>
-   ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)    
+     
 
 ## :chart: Contribution grapgh:
 <br/>
@@ -85,8 +85,9 @@
 
 <br/>
 <br/>
-![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+
     
 
 </details>
+![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
