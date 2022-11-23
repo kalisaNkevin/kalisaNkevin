@@ -32,10 +32,10 @@
     
     
 
-   
+ ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)  
  <details>
   <summary>More clarified info here ...</summary><br/>   
-    
+    ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 ## 🚀 Languages and Tools:
 <br><p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -75,9 +75,7 @@
 <br>
 <br>
 <br>
-     
-
-## :chart: Contribution grapgh:
+  ## :chart: Contribution grapgh:
 <br/>
 <br/>
  
@@ -89,5 +87,5 @@
     
 
 </details>
-![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
+
 
