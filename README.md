@@ -29,7 +29,12 @@
 
 ![kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=dark&hide_border=false)<br>
-    
+ 
+ <div>
+  <a href="https://github.com/kalisaNkevin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotuliojt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisaNkevin&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
     
 
  ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)  
