@@ -7,8 +7,8 @@
 
 
 - 🔭 I’m currently working on **[PositiveO App](https://positiveo.io/)**
-- 🌱 I’m currently learning **React-native**
-- 💬 Ask me about **anything related to MERN /PERN Technology**
+- 🌱 I’m currently learning **Solidity**
+- 💬 Ask me anything concerns ** Coding **
 - 📫 How to reach me **kalisangabokevin@gmail.com**
 - ⚡ Fun fact :  **Reading is the key to everything. However, we don't.**
 
