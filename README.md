@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **[PositiveO App](https://positiveo.io/)**
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Web3**
 - 💬 Ask me anything concerns **Coding**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
 - ⚡ Fun fact :  **Reading is the key to everything. However, we don't.**
