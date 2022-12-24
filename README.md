@@ -6,8 +6,8 @@
 ### About Me :sunglasses:
 
 
-- 🔭 I’m currently working on **[PositiveO App](https://positiveo.io/)**
-- 🌱 I’m currently learning **Web3**
+- 🔭 I’m currently  **Freelancing**
+- 🌱 I’m learning **Web3** for now.
 - 💬 Ask me anything concerns **Coding**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
 - ⚡ Fun fact :  **Reading is the key to everything. However, we don't.**
