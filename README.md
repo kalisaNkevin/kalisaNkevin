@@ -33,8 +33,8 @@
 
     
  ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)  
- <details>
-  <summary>More clarified info here ...</summary><br/>   
+
+
   
 ## 🚀 Languages and Tools: 
 
@@ -76,10 +76,17 @@
 <br>
 <br>
 <br>
+ 
+## :chart: Contribution grapgh:
+ 
+<br/>
+<br/>
+ 
+<a href="https://github.com/kalisaNkevin/github-readme-activity-graph"><img alt="kalisa ngabo kevin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kalisaNkevin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 <br/>
 
-    
-
-</details>
+   
 
 
