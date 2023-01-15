@@ -10,7 +10,7 @@
 - 🌱 I’m learning **Web3** for now.
 - 💬 Ask me anything concerns **Coding**
 - 📫 How to reach me **kalisangabokevin@gmail.com**
-- ⚡ Fun fact :  **Reading is the key to everything. However, we don't.**
+- ⚡ Fun fact :  **Documentation is the key to everything.**
 
 
 
