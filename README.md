@@ -26,10 +26,6 @@
  
 <p> 
 
-    
- ![Snake animation](https://github.com/kalisaNkevin/kalisaNkevin/blob/output/github-contribution-grid-snake.svg)  
-
-
   
 ## 🚀 Languages and Tools: 
 
@@ -42,7 +38,6 @@
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <br>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-bootstrapp-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
