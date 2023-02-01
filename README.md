@@ -6,11 +6,10 @@
 ### About Me :sunglasses:
 
 
-- 🔭 I’m currently  **Freelancing**
-- 🌱 I’m learning **Web3** for now.
-- 💬 Ask me anything concerns **Coding**
-- 📫 How to reach me **kalisangabokevin@gmail.com**
-- ⚡ Fun fact :  **Documentation is the key to everything.**
+ 🔭 I’m currently  **Freelancing**
+ 🌱 I’m learning **Web3** for now.
+ 📫 How to reach me **kalisangabokevin@gmail.com**
+ ⚡ Fun fact :  **I love Taking pictures.**
 
 
 
