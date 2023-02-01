@@ -6,8 +6,7 @@
 ### About Me :sunglasses:
 
 
- - 🔭 I’m currently  **Freelancing**
- - 🌱 I’m learning **Web3** for now.
+ - 🌱 I’m learning **Angular & C#** for now.
  - 📫 How to reach me **kalisangabokevin@gmail.com**
  - ⚡ Fun fact :  **I love Taking pictures.**
 
