@@ -6,7 +6,7 @@
 ### About Me :sunglasses:
 
 
- - 🌱 I’m learning **Solidity** for now.
+ - 🌱 I’m learning **NestJs** for now.
  - 📫 How to reach me **kalisangabokevin@gmail.com**
  - ⚡ Fun fact :  **I love Taking pictures.**
 
