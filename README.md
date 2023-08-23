@@ -5,7 +5,7 @@
 ### About Me :sunglasses:
 
 
- - 🌱 I’m learning **WEB3** for now.
+ - 🌱 I’m learning **WEB3**.
  - 📫 How to reach me **kalisangabokevin@gmail.com**
  - ⚡ Fun fact :  **I love Taking pictures.**
 
