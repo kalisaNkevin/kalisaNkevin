@@ -21,5 +21,6 @@ I got five + years of professional experience developing a wide range of tools a
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Wakatime"/>
 </p>
 
