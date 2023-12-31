@@ -21,11 +21,3 @@ I got five + years of professional experience developing a wide range of tools a
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-
-## Connect with me:
-<p align="left">
-<a href="mailto:kalisangabokevin@gmail.com?subject=[GitHub]%20🔥%20Proud%20to%20contact"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kalisa-ngabo-kevin-6717781b7/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Kalisakevin_/"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
-</p>
-<p> 
