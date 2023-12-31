@@ -4,11 +4,6 @@
 
 ### About Me :sunglasses:
 
-
- - 🌱 I’m learning **WEB3**.
- - 📫 How to reach me **kalisangabokevin@gmail.com**
- - ⚡ Fun fact :  **I love Taking pictures.**
-
 I got six + years of professional experience developing a wide range of tools and products. I have strong experience in JavaScript (TypeScript, React, React-Native), Ruby on Rails, QA, and DevOps automation.
 
 "Talk is cheap, show me the code",so check the code / repos. Apart from writing good code, I am interested in new ideas and new ways of thinking; so don't hesitate to reach out to me for collaboration, or just a talk about tech and innovation: jean.abayo@gmail.com
