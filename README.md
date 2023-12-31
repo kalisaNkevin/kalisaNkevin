@@ -1,7 +1,5 @@
 <h3 align="center">Murakaza Neza Kuri Github Profile.</h3>
 
-# kalisangabokevin.me
-
 > I'm Kevin Ngabo Kalisa (from 🇷🇼 Kigali) , Software Artist.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
