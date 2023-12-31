@@ -1,10 +1,10 @@
-<h3 align="center">Welcome to my Github handle.</h3>
+<h3 align="center">Murakaza Neza Kuri Github Profile.</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### About Me :sunglasses:
 
-I got five + years of professional experience developing a wide range of tools and products. I have strong experience in JavaScript (TypeScript, React, React-Native), .Net, UI/UX, and DevOps automation.
+I got five + years of professional experience developing a wide range of tools and products. I have strong experience in JavaScript (TypeScript, Angular, Nextjs, nestsjs, node, Svelte, React, React-Native), C#(dotnet, Maui), UI/UX, and DevOps automation.
 
 "Talk is cheap, show me the code",so check the code / repos. Apart from writing good code, I am interested in new ideas and new ways of thinking; so don't hesitate to reach out to me for collaboration, or just a talk about tech and innovation: **kalisangabokevin@gmail.com**
 
