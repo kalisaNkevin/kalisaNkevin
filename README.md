@@ -22,5 +22,7 @@ I got four + years of professional experience developing a wide range of tools a
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Wakatime"/>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64f490c8b128dce3cba48fb6?variant=dark" alt="roadmap.sh"/></a>
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64f490c8b128dce3cba48fb6?variant=dark)](https://roadmap.sh)
 </p>
 
