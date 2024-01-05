@@ -6,9 +6,9 @@
 
 ### About Me :sunglasses:
 
-Boasting more than four years of professional experience, I have honed my skills in a broad spectrum of software development, specializing in JavaScript technologies such as TypeScript, Angular, Next.js, NestJS, Node.js, Svelte, React, and React Native. My expertise also extends to C#, covering .NET and Maui frameworks, alongside a keen proficiency in UI/UX design and DevOps automation. My portfolio is a testament to my commitment to delivering high-quality software solutions.
+Boasting more than four years of professional experience, specializing in JavaScript technologies such as TypeScript and Javascript. My expertise also extends to C#, covering .NET and Maui frameworks, alongside a keen proficiency in UI/UX design. My portfolio is a testament to my commitment to delivering high-quality software solutions.
 
-I firmly believe in the power of collaboration and the exchange of innovative ideas. My passion extends beyond coding to exploring new concepts and methodologies in technology. I am always open to collaborative projects or discussions about the latest in tech and innovation. Feel free to contact me at **kalisangabokevin@gmail.com** for any professional inquiries or tech-related conversations.
+I firmly believe in the power of collaboration and the exchange of innovative ideas. I am always open to collaborative projects or discussions about the latest in tech and innovation. Feel free to contact me at **kalisangabokevin@gmail.com** for any professional inquiries or tech-related conversations.
 
 
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
