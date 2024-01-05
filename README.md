@@ -1,14 +1,14 @@
 <h3 align="center">Welcome To My Github Handle.</h3>
 
-> I'm Kevin Ngabo Kalisa, Experienced Front-End Software Engineer from Rwanda 🇷🇼, dedicated to crafting accessible web and mobile solutions..
+> I'm Kevin Ngabo Kalisa, Experienced Front-End Software Engineer from Rwanda 🇷🇼.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### About Me :sunglasses:
 
-With over four years of enriched professional expertise, I have been instrumental in developing a diverse array of tools and products. My proficiency lies deeply rooted in JavaScript, encompassing TypeScript, Angular, Next.js, NestJS, Node.js, Svelte, React, and React Native, alongside a solid command in C# (inclusive of .NET and Maui). Furthermore, my acumen extends to the realms of UI/UX design and DevOps automation.
+Boasting more than four years of professional experience, I have honed my skills in a broad spectrum of software development, specializing in JavaScript technologies such as TypeScript, Angular, Next.js, NestJS, Node.js, Svelte, React, and React Native. My expertise also extends to C#, covering .NET and Maui frameworks, alongside a keen proficiency in UI/UX design and DevOps automation. My portfolio is a testament to my commitment to delivering high-quality software solutions.
 
-Adhering to the ethos that actions speak louder than words, particularly in the realm of coding, I invite you to peruse my code repositories. Beyond merely crafting high-quality code, my interests are perpetually aligned with exploring novel ideas and innovative thought processes. Therefore, I welcome collaborations, or even discussions about technology and innovation. Feel free to connect with me at **kalisangabokevin@gmail.com**.
+I firmly believe in the power of collaboration and the exchange of innovative ideas. My passion extends beyond coding to exploring new concepts and methodologies in technology. I am always open to collaborative projects or discussions about the latest in tech and innovation. Feel free to contact me at **kalisangabokevin@gmail.com** for any professional inquiries or tech-related conversations.
 
 
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
