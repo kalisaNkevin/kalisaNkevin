@@ -17,6 +17,9 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 [![github](https://img.shields.io/github/followers/kalisaNkevin?logo=github&style=plastic)](https://github.com/kalisaNkevin?tab=followers)
 [![twitter](https://img.shields.io/twitter/follow/kalisakevin?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/kalisakevin_)
 ![Profile views](https://gpvc.arturio.dev/kalisaNkevin)
+![](https://komarev.com/ghpvc/?username=kalisaNkevin)
+![secret-profile-repository](https://user-images.githubusercontent.com/1849174/87852702-f24acb80-c90c-11ea-8247-90ae7de0954d.png)
+
 
 
 ## Tech Stack
