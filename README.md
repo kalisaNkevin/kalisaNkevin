@@ -28,13 +28,9 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)](https://angular.io/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=plastic&logo=webpack&logoColor=black)](https://webpack.js.org/)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=plastic&logo=babel&logoColor=black)](https://babeljs.io/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white)](https://jestjs.io/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 
