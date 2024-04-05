@@ -16,12 +16,13 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 [![wakatime](https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg)](https://wakatime.com/kalisaNkevin)
 [![github](https://img.shields.io/github/followers/kalisaNkevin?logo=github&style=plastic)](https://github.com/kalisaNkevin?tab=followers)
 [![twitter](https://img.shields.io/twitter/follow/kalisakevin?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/kalisakevin_)
-[![LinkedIn](https://img.shields.io/linkedin/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalisa-ngabo-kevin-6717781b7)
+
 
 ## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/javascript-3178C6?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
