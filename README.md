@@ -13,16 +13,18 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
-## Tech Stack
 [![wakatime](https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg)](https://wakatime.com/@018cbf7c-8623-470c-ad5b-0b7f51ca3343)
+[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/kalisaNkvin?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/alanhamlett?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/kalisakevin_)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/WakaTime)
+
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Wakatime"/>
-<a href="https://wakatime.com/@018cbf7c-8623-470c-ad5b-0b7f51ca3343"><img src="https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg" alt="Total time coded since Dec 31 2023" /></a>
   
 </p>
 
