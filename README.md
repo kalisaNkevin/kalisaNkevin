@@ -21,7 +21,7 @@ I firmly believe in the power of collaboration and the exchange of innovative id
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="Wakatime"/>
-  [![wakatime](https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg)](https://wakatime.com/@018cbf7c-8623-470c-ad5b-0b7f51ca3343)
+  {<img src="https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg" alt="wakatime" />}[https://wakatime.com/@018cbf7c-8623-470c-ad5b-0b7f51ca3343]
   
 </p>
 
