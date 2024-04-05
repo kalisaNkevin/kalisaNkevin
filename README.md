@@ -14,6 +14,7 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Tech Stack
+[![wakatime](https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg)](https://wakatime.com/@018cbf7c-8623-470c-ad5b-0b7f51ca3343)
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
