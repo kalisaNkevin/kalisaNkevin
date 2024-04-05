@@ -16,6 +16,7 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 [![wakatime](https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg)](https://wakatime.com/kalisaNkevin)
 [![github](https://img.shields.io/github/followers/kalisaNkevin?logo=github&style=plastic)](https://github.com/kalisaNkevin?tab=followers)
 [![twitter](https://img.shields.io/twitter/follow/kalisakevin?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/kalisakevin_)
+![Profile views](https://gpvc.arturio.dev/kalisaNkevin)
 
 
 ## Tech Stack
