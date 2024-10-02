@@ -17,6 +17,33 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
+(() => ({
+  firstName: 'Kalisa',
+  middleName: 'Ngabo',
+  lastName: 'Kevin',
+  pronoun: 'Him' || 'He',
+  location: 'Kigali, Rwanda',
+  dev:{
+      frontEnd:{
+        languages: ['HTML', 'CSS', 'Javascript', 'Typescript'],
+        frameworks: ['React.js', 'Next.js'],
+        libraries: ['Bootstrap', 'Material UI', 'Tailwind CSS']
+      },
+      backEnd:{
+        languages: ['Javascript', 'Typescript', 'Java', 'Kotlin', 'Python', 'C#'],
+        frameworks: ['Expressjs', 'NestJS', 'Spring Boot', 'Django', '.NET']
+      },
+      database: ['PostgreSQL & TypeORM', 'MongoDB & Mongoose', 'SQLite'],
+      testing: ['Mocha & Chai', 'Jest & Supertest'],
+      versionControl: ['Git'],
+      projectMgt: ['Pivotal Tracker', 'Jira'],
+      misc: ['Heroku', 'GNU_Linux']
+    },
+    contactMe: {
+      email: 'kalisangabokevin@gmail.com',
+    }
+  }))();
+
 ## Tech Stack
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
