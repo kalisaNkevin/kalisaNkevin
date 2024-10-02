@@ -17,7 +17,7 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
-(() => ({
+`` (() => ({
   firstName: 'Kalisa',
   middleName: 'Ngabo',
   lastName: 'Kevin',
@@ -42,7 +42,7 @@ I firmly believe in the power of collaboration and the exchange of innovative id
     contactMe: {
       email: 'kalisangabokevin@gmail.com',
     }
-  }))();
+  }))();``
 
 ## Tech Stack
 
