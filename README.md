@@ -15,6 +15,8 @@ I firmly believe in the power of collaboration and the exchange of innovative id
 ![](https://komarev.com/ghpvc/?username=kalisaNkevin)
 
 <a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="kalisa-ngabo-kevin-6717781b7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://rw.linkedin.com/in/kalisa-ngabo-kevin-6717781b7?trk=profile-badge">KALISA NGABO Kevin</a></div>
+              
 
 ## Tech Stack
 
