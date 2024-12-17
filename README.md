@@ -2,6 +2,8 @@
 
 > I'm Kevin Ngabo Kalisa, Experienced Front-End Software Engineer from Rwanda 🇷🇼.
 
+![Profile views](https://gpvc.arturio.dev/kalisaNkevin)
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### About Me :sunglasses:
