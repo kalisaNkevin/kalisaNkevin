@@ -49,6 +49,4 @@ Feel free to connect for **collaboration**, **mentorship**, or just a friendly t
 
 ## 🎯 Let's Connect!
 
-I value collaboration and love exchanging ideas about the latest technologies and innovations. Reach out to me via [email](mailto:kalisangabokevin@gmail.com) or connect with me on LinkedIn. Together, let's build something amazing!
-
-
+I value collaboration and love exchanging ideas about the latest technologies and innovations. Reach out to me via [email](mailto:kalisangabokevin@gmail.com) 
