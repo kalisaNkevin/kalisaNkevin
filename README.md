@@ -24,11 +24,6 @@ Hello! I'm **Kevin Ngabo Kalisa**, an **Experienced Front-End Software Engineer*
 Feel free to connect for **collaboration**, **mentorship**, or just a friendly tech discussion!  
 📧 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)  
 
-<a href="https://www.buymeacoffee.com/kevinkalisg" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" />
-</a>  
-[![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://rw.linkedin.com/in/kalisa-ngabo-kevin-6717781b7)
-
 ---
 
 ## 🚀 Tech Stack
