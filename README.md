@@ -14,7 +14,7 @@
 
 ## About Me 👨‍💻
 
-Hello! I'm **Kevin Ngabo Kalisa**, an **Experienced Front-End Software Engineer** based in Rwanda 🇷🇼. With over **4 years of professional experience**, I specialize in building dynamic, user-friendly, and scalable software solutions. My primary tools include **JavaScript**, **TypeScript**, and **C#** (.NET, MAUI), with a strong emphasis on **UI/UX design**.
+Hello! I'm **Kevin Ngabo Kalisa**, an **Experienced Senior Software Engineer** based in Rwanda 🇷🇼. With over **5 years of professional experience**, I specialize in building dynamic, user-friendly, and scalable software solutions.
 
 ### 🌱 Current Focus
 - Developing innovative solutions using **Next.js**, **TailwindCSS**, and **Redux Toolkit Query**.
