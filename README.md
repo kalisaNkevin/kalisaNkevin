@@ -30,12 +30,10 @@ Feel free to connect for **collaboration**, **mentorship**, or just a friendly t
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)](https://angular.io/)
+
 
 ### Design Tools:
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Sass](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ### Testing & Deployment:
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white)](https://jestjs.io/)
