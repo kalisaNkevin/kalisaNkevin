@@ -24,8 +24,6 @@ Hello! I'm **Kevin Ngabo Kalisa**, an **Experienced Front-End Software Engineer*
 Feel free to connect for **collaboration**, **mentorship**, or just a friendly tech discussion!  
 📧 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)  
 
----
-
 ## 🚀 Tech Stack
 
 ### Languages & Frameworks:
