@@ -35,12 +35,13 @@ Feel free to connect for **collaboration**, **mentorship**, or just a friendly t
 ### Design Tools:
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)](https://www.figma.com/)
 
-### Testing & Deployment:
+### Testing:
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 ### Cloud & Hosting:
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
