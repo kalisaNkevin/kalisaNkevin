@@ -55,4 +55,4 @@ A sneaker and fashion **e-commerce platform** designed to deliver a seamless sho
 
 📧 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/kalisanKevin](https://linkedin.com)  
-🌐 **Portfolio:** [kalisa.dev](https://kalisa-kevin.vercel.app/)  
+🌐 **Portfolio:** [kalisa-kevin.vercel.app](https://kalisa-kevin.vercel.app/)  
