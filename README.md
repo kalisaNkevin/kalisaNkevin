@@ -19,11 +19,6 @@ I have **5+ years of professional experience**, building **dynamic**, **scalable
 
 ---
 
-## 🌱 Current Focus
-- 🛍️ Building **[Jabo Collection](https://jabocollection.com)** – a modern **e-commerce platform** for sneakers & fashion.  
-
----
-
 ## 🏆 Featured Project
 
 ### 🔥 Jabo Collection
