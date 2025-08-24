@@ -31,10 +31,7 @@ A sneaker and fashion **e-commerce platform** designed to deliver a seamless sho
 
 <p>
   <a href="https://jabocollection.com">
-    <img src="https://img.shields.io/badge/Live_Site-Visit-success?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/kalisaNkevin">
-    <img src="https://img.shields.io/badge/Repository-Code-blue?style=for-the-badge&logo=github" />
+    <img src="https://dashboard.jabocollection.com/svgs/2.svg" />
   </a>
 </p>
 
@@ -63,4 +60,4 @@ A sneaker and fashion **e-commerce platform** designed to deliver a seamless sho
 
 📧 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/kalisanKevin](https://linkedin.com)  
-🌐 **Portfolio:** [kalisa.dev](https://kalisa.dev)  
+🌐 **Portfolio:** [kalisa.dev](https://kalisa-kevin.vercel.app/)  
