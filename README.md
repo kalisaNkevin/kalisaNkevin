@@ -32,6 +32,11 @@ A sneaker and fashion **e-commerce platform** designed to deliver a seamless sho
 
 ---
 
+## Upskilling
+
+[![roadmap.sh](https://roadmap.sh/card/tall/64f490c8b128dce3cba48fb6?variant=dark)](https://roadmap.sh)
+
+---
 ## 🛠️ Tech Stack
 
 <p>
