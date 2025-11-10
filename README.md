@@ -19,20 +19,7 @@ I have **5+ years of professional experience**, building **dynamic**, **scalable
 
 ---
 
-## 🏆 Featured Project
-
-### 🔥 Jabo Collection
-A sneaker and fashion **e-commerce platform** designed to deliver a seamless shopping experience.
-
-<p>
-  <a href="https://jabocollection.com">
-    <img src="https://dashboard.jabocollection.com/svgs/2.svg" />
-  </a>
-</p>
-
----
-
-## Upskilling
+## 🏆 Upskilling
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64f490c8b128dce3cba48fb6?variant=dark&roadmaps=software-architect%2Ctechnical-writer%2Cfrontend%2Cbackend)](https://roadmap.sh)
 
@@ -41,15 +28,6 @@ A sneaker and fashion **e-commerce platform** designed to deliver a seamless sho
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,aws,azure,git,docker" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalisaNkevin&theme=radical" height="160" />
 </p>
 
 ---
