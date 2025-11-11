@@ -21,7 +21,7 @@ I have **5+ years of professional experience**, building **dynamic**, **scalable
 
 ## 🏆 Upskilling
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64f490c8b128dce3cba48fb6?variant=dark&roadmaps=frontend%2Cbackend%2Csoftware-architect%2Ctechnical-writer)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64f490c8b128dce3cba48fb6?variant=dark&roadmaps=frontend%2Cbackend%2Csoftware-architect%2Ctechnical-writer)](https://roadmap.sh)
 
 ---
 ## 🛠️ Tech Stack
