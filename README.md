@@ -30,10 +30,6 @@ I am a **Senior Software Engineer** based in Rwanda 🇷🇼 with over **5 years
 | **Backend** | .NET Core, Node.js (NestJS/Express), Spring Boot |
 | **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions/Azure DevOps) |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,nodejs,postgres,aws,azure,docker,git" />
-</p>
-
 ---
 
 ## 🏗️ Engineering Philosophy
