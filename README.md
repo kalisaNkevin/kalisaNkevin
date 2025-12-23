@@ -1,5 +1,5 @@
 <h1 align="center">Kevin Ngabo Kalisa</h1>
-<p align="center"><b>Senior Software Engineer | Full-Stack Architect | Mentor</b></p>
+<p align="center"><b>Senior Software Engineer | Software Architect | Mentor</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalisaNkevin&color=blue&style=flat-square" alt="Profile Views" />
