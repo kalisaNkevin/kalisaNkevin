@@ -53,4 +53,3 @@ I am always open to discussing **system design**, **open-source collaboration**,
 
 * 📫 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/kalisanKevin](https://linkedin.com/in/kalisanKevin)
-* ✍️ **Blog/Portfolio:** [YourLinkHere.com](https://yourlink.com)
