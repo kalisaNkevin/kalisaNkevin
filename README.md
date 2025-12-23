@@ -46,14 +46,6 @@ As a senior engineer, I prioritize **maintainability** over cleverness. I am a f
 
 ---
 
-## 📊 My GitHub Impact
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&theme=tokyonight&count_private=true" alt="Kevin's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisaNkevin&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
 
 ## 🎯 Let's Connect
 
