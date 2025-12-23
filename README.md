@@ -1,35 +1,64 @@
-<h1 align="center">Welcome to My GitHub! 🌟</h1>
+<h1 align="center">Kevin Ngabo Kalisa</h1>
+<p align="center"><b>Senior Software Engineer | Full-Stack Architect | Mentor</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalisaNkevin&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kalisaNkevin&color=blue&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/kalisaNkevin?tab=followers">
     <img src="https://img.shields.io/github/followers/kalisaNkevin?logo=github&style=flat-square" alt="GitHub Followers" />
   </a>
-  <a href="https://wakatime.com/kalisaNkevin">
-    <img src="https://wakatime.com/badge/user/018cbf7c-8623-470c-ad5b-0b7f51ca3343.svg" alt="Wakatime Stats" />
-  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-Hello! I'm **Kevin Ngabo Kalisa**, an **Experienced Senior Software Engineer** based in Rwanda 🇷🇼.  
-I have **5+ years of professional experience**, building **dynamic**, **scalable**, and **user-friendly** software solutions.
+I am a **Senior Software Engineer** based in Rwanda 🇷🇼 with over **5 years of experience** specializing in building high-performance, scalable web applications. My focus lies at the intersection of **System Architecture**, **Frontend Excellence**, and **Developer Experience**.
+
+* 🔭 **Focus:** Building resilient microservices and intuitive React/Next.js architectures.
+* 🌱 **Current Pursuits:** Deepening expertise in Cloud-Native patterns and Event-Driven Architecture.
+* 🤝 **Leadership:** Experienced in code reviews, technical documentation, and mentoring mid-to-junior engineers.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Specialized Ecosystem
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,aws,azure,git,docker" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), HTML5/CSS3 |
+| **Frontend** | React.js, Next.js, Redux ToolKit, Tailwind CSS |
+| **Backend & DB** | Node.js, Express, PostgreSQL, MongoDB, Prisma |
+| **Cloud & DevOps** | AWS, Azure, Docker, CI/CD Pipelines, Git |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,redux,tailwind,nodejs,postgres,aws,azure,docker,git" />
 </p>
 
 ---
 
-## 🎯 Let's Connect!
+## 🏗️ Engineering Philosophy
 
-💡 Open to **collaboration**, **mentorship**, and **tech discussions**.  
+> *"Build for scale, code for readability."*
 
-📧 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/kalisanKevin](https://linkedin.com)   
+As a senior engineer, I prioritize **maintainability** over cleverness. I am a firm advocate for:
+* **Domain-Driven Design (DDD)** to manage complex business logic.
+* **Test-Driven Development (TDD)** to ensure long-term stability.
+* **Clean Code & SOLID principles** to reduce technical debt.
+
+---
+
+## 📊 My GitHub Impact
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalisaNkevin&show_icons=true&theme=tokyonight&count_private=true" alt="Kevin's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalisaNkevin&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+---
+
+## 🎯 Let's Connect
+
+I am always open to discussing **system design**, **open-source collaboration**, or **leadership opportunities**.
+
+* 📫 **Email:** [kalisangabokevin@gmail.com](mailto:kalisangabokevin@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/kalisanKevin](https://linkedin.com/in/kalisanKevin)
+* ✍️ **Blog/Portfolio:** [YourLinkHere.com](https://yourlink.com)
