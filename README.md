@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Senior Software Engineer** based in Rwanda 🇷🇼 with over **5 years of experience** specializing in building high-performance, scalable web applications. My focus lies at the intersection of **System Architecture**, **Frontend Excellence**, and **Developer Experience**.
+I am a **Senior Software Engineer** based in Rwanda 🇷🇼 with over **7 years of experience** specializing in building high-performance, scalable web applications. My focus lies at the intersection of **System Architecture**, **Frontend Excellence**, and **Developer Experience**.
 
 * 🔭 **Focus:** Building resilient microservices and intuitive React/Next.js architectures.
 * 🌱 **Current Pursuits:** Deepening expertise in Cloud-Native patterns and Event-Driven Architecture.
