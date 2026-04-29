@@ -6,8 +6,7 @@
   <a href="https://github.com/kalisaNkevin?tab=followers">
     <img src="https://img.shields.io/github/followers/kalisaNkevin?logo=github&style=flat-square" alt="GitHub Followers" />
   </a>
-  [![committers.top badge](https://user-badge.committers.top/rwanda_private/kalisaNkevin.svg)](https://user-badge.committers.top/rwanda_private/kalisaNkevin)
-
+[![committers.top badge](https://user-badge.committers.top/rwanda_private/kalisaNkevin.svg)](https://user-badge.committers.top/rwanda_private/kalisaNkevin)
 </p>
 
 ---
