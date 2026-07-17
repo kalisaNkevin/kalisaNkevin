@@ -24,8 +24,8 @@ I am a **Senior Software Engineer** based in Rwanda 🇷🇼 with over **7 years
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ES6+), HTML5/CSS3 |
-| **Frontend** | React.js, Next.js, Redux ToolKit, Tailwind CSS |
+| **Languages** | TypeScript, JavaScript (ES6+), C# , Python, Java |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Chakra-UI, PandaCss , Ark-UI, Zagjs |
 | **Database** | PostgreSQL, MongoDB, MySQL, Redis |
 | **Backend** | .NET Core, Node.js (NestJS/Express), Spring Boot |
 | **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, CI/CD (GitHub Actions/Azure DevOps) |
